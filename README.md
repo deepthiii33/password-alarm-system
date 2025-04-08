@@ -27,7 +27,7 @@ A beginner-friendly Python security tool that monitors password attempts and tri
 3. Run the script :
     ```bash
        python password_alarm.py
-       ```
+      
 ## Requirements
 - Python 3.x
 - Windows OS (uses winsound module)
