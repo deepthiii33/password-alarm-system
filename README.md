@@ -19,5 +19,13 @@ A beginner-friendly Python security tool that monitors password attempts and tri
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/deepthiii33/password-alarm-system
-   cd password-alarm-system
+      git clone https://github.com/deepthiii33/password-alarm-system
+      cd password-alarm-system
+2. Download the zip file from code and extract , then open the python file
+3. Run the script :
+    ```bash
+       python password_alarm.py
+
+## Requirements
+- Python 3.x
+- Windows OS (uses winsound module)
